@@ -13,7 +13,6 @@
         "@sap-ui/common-css": "^0.39.11",
         "@ui5/webcomponents": "^2.14.0",
         "@ui5/webcomponents-fiori": "^2.14.0",
-        "@ui5/webcomponents-icons": "^2.15.1",
         "@ui5/webcomponents-react": "^2.14.1",
         "@ui5/webcomponents-react-base": "^2.14.1",
         "@ui5/webcomponents-react-charts": "^2.14.1",
